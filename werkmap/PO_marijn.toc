@@ -1,0 +1,22 @@
+\babel@toc {dutch}{}\relax 
+\contentsline {section}{\numberline {1}Aanleiding en probleemstelling}{6}{}%
+\contentsline {section}{\numberline {2}Probleemverkenning}{8}{}%
+\contentsline {section}{\numberline {3}Doelstellingen}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Beschrijvend onderzoek}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Evaluerend onderzoek}{9}{}%
+\contentsline {section}{\numberline {4}Theoretisch kader}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Voorbereide omgeving}{11}{}%
+\contentsline {subsection}{\numberline {4.2}Normalisatie}{12}{}%
+\contentsline {subsection}{\numberline {4.3}Motivatie}{17}{}%
+\contentsline {subsection}{\numberline {4.4}Leerstrategieën (herhaling van de oefening)}{18}{}%
+\contentsline {section}{\numberline {5}Conclusie literatuurstudie}{21}{}%
+\contentsline {section}{\numberline {6}Onderzoeksmethodiek}{24}{}%
+\contentsline {subsection}{\numberline {6.1}Voorbereide omgeving}{29}{}%
+\contentsline {subsection}{\numberline {6.2}Normalisatie}{29}{}%
+\contentsline {subsection}{\numberline {6.3}Motivatie}{31}{}%
+\contentsline {subsection}{\numberline {6.4}Leerstrategieën}{35}{}%
+\contentsline {subsection}{\numberline {6.5}Evaluatie}{37}{}%
+\contentsline {subsection}{\numberline {6.6}Onverwachte onregelmatigheid}{38}{}%
+\contentsline {section}{\numberline {7}Conclusie, reflectie en aanbevelingen}{40}{}%
+\contentsline {section}{\numberline {A}Bijlage}{44}{}%
+\contentsline {section}{Literatuur}{47}{}%
